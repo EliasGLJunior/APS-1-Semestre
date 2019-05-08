@@ -1,0 +1,25 @@
+#header {width:99%; height:150px; margin:5px;}
+#logo {background-image:url(logo.jpeg); width:10%; height:100%; float:left;}
+#banner {background-image:url(banner.jpg); width:89%; height:100%; float:right; }
+#menu ul { padding:0px; margin:5px; background-color:#3bab75; list-style:none; text-align:center; width:99%;} 
+#menu ul li { display:inline; }
+#menu ul li a { padding:10px 10px; display:inline-block; background-color:#3bab75; color:white; text-decoration: none; border-bottom:3px solid #79d2a6; font-family: calibri }				
+#menu ul li a:hover { background-color:#27b460; color:#d9f2e5; border-bottom:3px solid #388a30; }
+#menu ul li a:visited { color: white; text-decoration: none; border-bottom: 3px solid #79d2a6; }
+#menu ul li a:active { color: #99ff66; text-decoration: none; border-bottom: 3px solid #79d2a6; } 
+body {background-color:#FFFFFF; font-family: calibri}
+span{font-weight:bold; }	  
+#tabela1{ border:1px solid #7BB427; width: 47.3%; text-align:center; float:left; margin-left:1.5%;}		  
+#cabtab1{ background-color:#ecf8f2; font-weight:bold; color:#OOOOOO; padding:2 2 2 2px; }
+#corpotab1{ padding:4 4 4 4px; background-color: #d9f2e5; text-align:justify;}
+#tabela2{ border:1px solid #7BB427; width: 47.3%; text-align:center; float:left; margin-left:1.4%; margin-bottom:4%}
+#cabtab2{ background-color:#ecf8f2; font-weight:bold; color:#OOOOOO; padding:2 2 2 2px; } 
+#corpotab2{ padding:4 4 4 4px; background-color: #d9f2e5; text-align:justify;} 			
+#footer ul { display:flex; flex-wrap:wrap; 	justify-content: center; width:101%; margin:-8px; padding:2px 0px; background-color:#3bab75; color: white; list-style:none;}
+#footer ul li a { padding:20px 10px; display:inline-block; color:#d9f2e5; border-bottom:3px solid #388a30;}
+#footer ul li a:hover { background-color:#27b460; color:#d9f2e5; border-bottom:3px solid #388a30; }
+#footer ul li a:visited { color: white; text-decoration: none; border-bottom: 3px solid #79d2a6; }
+#footer ul li a:active { color: #99ff66; text-decoration: none; border-bottom: 3px solid #79d2a6; } 
+
+
+	

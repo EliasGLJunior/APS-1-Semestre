@@ -1,0 +1,22 @@
+#banner {background-image:url(banner.jpg); background-size:100% 100%; width:99%; height:200px; margin:5px;}
+#menu ul { padding:0px; margin:5px; background-color:#3bab75; list-style:none; text-align:center; width:99%;} 
+#menu ul li { display:inline; }
+#menu ul li a { padding:10px 10px; display:inline-block; background-color:#3bab75; color:white; text-decoration: none; border-bottom:3px solid #79d2a6; font-family: calibri }				
+#menu ul li a:hover { background-color:#27b460; color:#d9f2e5; border-bottom:3px solid #388a30; }
+#menu ul li a:visited { color: white; text-decoration: none; border-bottom: 3px solid #79d2a6; }
+#menu ul li a:active { color: #99ff66; text-decoration: none; border-bottom: 3px solid #79d2a6; }
+body {background-color:#FFFFFF; font-family: calibri}	  
+#tabela1{ width: 45.3%; text-align:center; float:left; margin-left:24%; height:55%; background-image:url(logo.jpeg); background-size: 100% 100%}		  
+#tabela2{ border:1px solid #339966; width: 20%; text-align:center; float:left; margin-left:4.5%; margin-bottom:2.5%; background-color: #d9f2e5;}		  
+#cabtab2{ font-weight:bold; color:#OOOOOO; padding:2 2 2 2px; }
+#corpotab2{ padding:4 4 4 4px;  text-align:center; text-decoration:none;}
+#corpotab2 a:hover{text-decoration: underline;}
+#footer ul { display:flex; flex-wrap:wrap; 	justify-content: center; width:101%; margin:-8px; padding:2px 0px; background-color:#3bab75; color: white; list-style:none;}
+#footer ul li a { padding:20px 10px; display:inline-block; color:#d9f2e5; border-bottom:3px solid #388a30;}
+#footer ul li a:hover { background-color:#27b460; color:#d9f2e5; border-bottom:3px solid #388a30; }
+#footer ul li a:visited { color: white; text-decoration: none; border-bottom: 3px solid #79d2a6; }
+#footer ul li a:active { color: #99ff66; text-decoration: none; border-bottom: 3px solid #79d2a6; } 
+a:link{text-decoration:none;}
+
+
+	
